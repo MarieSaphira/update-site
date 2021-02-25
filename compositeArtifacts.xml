@@ -1,0 +1,9 @@
+<?compositeArtifactRepository version='1.0.0'?>
+<repository name="Update Site Test" type="org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository" version="1.0.0">
+<properties size="1">
+<property name="p2.timestamp" value="1595488255843"/>
+</properties>
+<children size="1">
+<child location="com.mycompany.mydsl"/>
+</children>
+</repository>
