@@ -4,6 +4,6 @@
 <property name="p2.timestamp" value="1595488255843"/>
 </properties>
 <children size="1">
-<child location="com.mycompany.mydsl"/>
+<child location="com.mycompany.mydsl/"/>
 </children>
 </repository>
